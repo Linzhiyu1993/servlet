@@ -1,4 +1,4 @@
-# servlet
+# servlet 
 using servlet get current time to show how to write、run and deploy servlet application
 Environment:Tomcat8.0+windows system
 
@@ -25,3 +25,4 @@ Last step:
   enter into Tomcat bin foler ,then start startup.bat
   open browser ,input "http://localhost:8080/ServlerProject/Serv1"
   then you can see "Servlet getCurrentTime" page 
+ 
